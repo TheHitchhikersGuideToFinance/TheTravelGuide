@@ -1,22 +1,78 @@
 ---
 main:
-  - name: Level 1
-    ref: ""
-    icon: "notification"
+  - name: Market Education
+    ref: "/market_education"
     sub:
-      - name: Level 1.1
-        ref: ""
-      - name: Level 1.2
-        ref: ""
-      - name: Level 1.3
+      - name: Basics
         ref: ""
         sub:
-          - name: Level 1.3.1
-            ref: ""
-  - name: Level 2
-    ref: ""
-    sub:
-      - name: Level 2.1
+          - name: Charts, Float, Market Cap
+          - name: Greeks
+          - name: Risk Management
+          - name: Psychology
+          - name: Trading
+            sub:
+              - name: Order Types
+              - name: Exchanges
+      - name: Options
         ref: ""
-      - name: Level 2.2
+        sub:
+          - name: Level 1
+            sub:
+              - name: Covered Calls
+              - name: Cash-Secured Puts
+          - name: Level 2
+            sub:
+              - name: Long Call
+              - name: Long Put
+          - name: Level 3
+            sub:
+              - name: Spreads
+          - name: Level 4
+            sub:
+              - name: Uncovered or Naked
+      - name: Technical Analysis
+        sub:
+          - name: Simple Moving Average
+          - name: Exponential Moving Average
+          - name: Elliott Wave Theory
+      - name: Crypto
+        sub:
+          - name: Overview
+          - name: How to Buy and Sell
+          - name: Automated Trading     
+  - name: Due Diligence
+    ref: "/due_diligence"
+    sub:
+      - name: GME
+        ref: "/due_diligence/GME"
+      - name: AMC
+        ref: "/due_diligence/AMC"
+      - name: BB
+        ref: "/due_diligence/BB"
+  - name: Digging Resources
+    ref: "/digging_resources"
+    sub:
+      - name: Hardware
+        ref: "/digging_resources/hardware"
+      - name: Search Engines
+        ref: "/digging_resources/search_engines"
+      - name: VPN
+        ref: "/digging_resources/vpn"
+      - name: Free Open Source Software (FOSS)
+        ref: "/digging_resources/foss" 
+      - name: Market Data
+        ref: "digging_resources/market_data"
+      - name: Reddit Subs
+        ref: ""
+  - name: Help Build the Community
+    ref: "/help_build_the_community"
+    sub:
+      - name: Overview
+        ref: ""
+      - name: Edit With Web Browser
+        ref: ""
+      - name: Edit With GitHub
+        ref: ""
+      - name: Maintainers
         ref: ""
