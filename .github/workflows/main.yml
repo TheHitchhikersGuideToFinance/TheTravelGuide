@@ -25,7 +25,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.THGTF_Secret }}
-          external_repository: TheHitchhikersGuideToFinance/site.github.io
+          external_repository: TheHitchhikersGuideToFinance/TheHitchhikersGuideToFinance.github.io
           publish_dir: ./private
           #   keep_files: true
           user_name: TheHitchhikersGuideToFinance
