@@ -4,18 +4,18 @@ main:
     ref: "/market_education"
     sub:
       - name: Basics
-        ref: ""
+        ref: "/market_education/basics"
         sub:
           - name: Charts, Float, Market Cap
           - name: Greeks
-          - name: Risk Management
-          - name: Psychology
           - name: Trading
             sub:
               - name: Order Types
               - name: Exchanges
+          - name: Risk Management
+          - name: Psychology
       - name: Options
-        ref: ""
+        ref: "/market_education/options"
         sub:
           - name: Level 1
             sub:
@@ -32,15 +32,22 @@ main:
             sub:
               - name: Uncovered or Naked
       - name: Technical Analysis
+        ref: "/market_education/technical_analysis"
         sub:
           - name: Simple Moving Average
           - name: Exponential Moving Average
           - name: Elliott Wave Theory
       - name: Crypto
+        ref: "/market_education/crypto"
         sub:
           - name: Overview
           - name: How to Buy and Sell
           - name: Automated Trading     
+      - name: External Resources
+        ref: "/market_education/external_resources"
+        sub:
+          - name: Alternatives to Main Stream Media
+          - name: Educational Videos
   - name: Due Diligence
     ref: "/due_diligence"
     sub:
