@@ -7,47 +7,70 @@ main:
         ref: "/market_education/basics"
         sub:
           - name: Charts, Float, Market Cap
+            ref: "/market_education/basics/charts_float_marketcap"
           - name: Greeks
+            ref: "/market_education/basics/greeks"
           - name: Trading
+            ref: "/market_education/basics/trading"
             sub:
               - name: Order Types
+                ref: "/market_education/basics/trading/order_types"
               - name: Exchanges
+                ref: "/market_education/basics/trading/exchanges"
           - name: Risk Management
+            ref: "/market_education/basics/risk_management"
           - name: Psychology
+            ref:  "/market_education/basics/psychology"
       - name: Options
         ref: "/market_education/options"
         sub:
           - name: Level 1
+            ref:  "/market_education/options/level_1"
             sub:
               - name: Covered Calls
+                ref:  "/market_education/options/level_1/covered_calls"
               - name: Cash-Secured Puts
+                ref:  "/market_education/options/level_1/cash_secured_puts"
           - name: Level 2
+            ref:  "/market_education/options/level_2"  
             sub:
               - name: Long Call
+                ref:  "/market_education/options/level_2/long_call"
               - name: Long Put
+                ref:  "/market_education/options/level_2/long_put"
           - name: Level 3
+            ref:  "/market_education/options/level_3"
             sub:
               - name: Spreads
+                ref:  "/market_education/options/level_3/spreads"
           - name: Level 4
+            ref:  "/market_education/options/level_4"
             sub:
-              - name: Uncovered or Naked
+              - name: Uncovered
+                ref:  "/market_education/options/level_4/uncovered"
       - name: Technical Analysis
         ref: "/market_education/technical_analysis"
         sub:
           - name: Simple Moving Average
+            ref: "/market_education/technical_analysis/simple_moving_average"
           - name: Exponential Moving Average
-          - name: Elliott Wave Theory
+            ref: "/market_education/technical_analysis/exponential_moving_average"
       - name: Crypto
         ref: "/market_education/crypto"
         sub:
           - name: Overview
+            ref: "/market_education/crypto/overview"
           - name: How to Buy and Sell
-          - name: Automated Trading     
+            ref: "/market_education/crypto/how_to_buy_and_sell"
+          - name: Automated Trading
+            ref: "/market_education/crypto/automated_trading"
       - name: External Resources
         ref: "/market_education/external_resources"
         sub:
           - name: Alternatives to Main Stream Media
+            ref: "/market_education/external_resources/alternatives_to_main_stream_media"
           - name: Educational Videos
+            ref: "/market_education/external_resources/educational_videos"
   - name: Due Diligence
     ref: "/due_diligence"
     sub:
@@ -71,15 +94,15 @@ main:
       - name: Market Data
         ref: "digging_resources/market_data"
       - name: Reddit Subs
-        ref: ""
+        ref: "reddit_subs"
   - name: Help Build the Community
     ref: "/help_build_the_community"
     sub:
       - name: Overview
-        ref: ""
+        ref: "/help_build_the_community/overview"
       - name: Edit With Web Browser
-        ref: ""
+        ref: "/help_build_the_community/edit_with_web_browser"
       - name: Edit With GitHub
-        ref: ""
+        ref: "/help_build_the_community/edit_with_github"
       - name: Maintainers
-        ref: ""
+        ref: "/help_build_the_community/maintainers"
