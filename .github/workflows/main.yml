@@ -14,7 +14,7 @@ jobs:
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.64.0"
+          hugo-version: "0.85.0"
 
       - name: Build
         # remove --minify tag if you do not need it
@@ -28,7 +28,7 @@ jobs:
           external_repository: TheHitchhikersGuideToFinance/site.github.io
           publish_dir: ./public
           #   keep_files: true
-          user_name: lunarnautics
-          user_email: lunarnautics@protonmail.com
+          user_name: TheHitchhikersGuideToFinance
+          user_email: lunarnautics@pm.me
           publish_branch: master
         #   cname: example.com
