@@ -26,7 +26,7 @@ jobs:
         with:
           personal_token: ${{ secrets.THGTF_Secret }}
           external_repository: TheHitchhikersGuideToFinance/TheHitchhikersGuideToFinance.github.io
-          publish_dir: ./private
+          publish_dir: ./public
           #   keep_files: true
           user_name: TheHitchhikersGuideToFinance
           user_email: lunarnautics@pm.me
