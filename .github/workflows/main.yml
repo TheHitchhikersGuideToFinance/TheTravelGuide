@@ -24,7 +24,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.TOKEN }}
+          personal_token: ${{ secrets.THGTF_Secret }}
           external_repository: TheHitchhikersGuideToFinance/site.github.io
           publish_dir: ./public
           #   keep_files: true
