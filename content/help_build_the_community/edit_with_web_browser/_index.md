@@ -16,17 +16,17 @@ resources:
 ---
 
 To edit a page thorough a web browser, first navigate to the page that you would like to edit and
-then click the "Edit this page" button shown here:
+then click the "Edit this page" button at the top right of the page.
 
 {{< img name="edit_button" lazy=false >}}
 
-This will then bring you to the GitHub repo and you will be shown the file that contains the page you wish to edit.
-To edit the page, click the "Edit this file" button shown here:
+This will then bring you to the GitHub repo and you will be shown the file that contains the page 
+you wish to edit. To edit the page, click the "Edit this file" button in the top right.
 
 {{< img name="edit_this_file" lazy=false >}}
 
 Place your edits in the file as shown below. A guide for how to include pictures, equations, code blocks,
-columns, hints, etc. can be found at the [Geekdocs Demo Site](https://geekdocs.de/usage/getting-started/)
+columns, hints, etc. can be found at the [Geekdocs Demo Site](https://geekdocs.de/usage/getting-started/).
 
 {{< img name="edits" lazy=false >}}
 
