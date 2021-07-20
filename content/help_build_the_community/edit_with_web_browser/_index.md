@@ -26,7 +26,7 @@ you wish to edit. To edit the page, click the "Edit this file" button in the top
 {{< img name="edit_this_file" lazy=false >}}
 
 Place your edits in the file as shown below. A guide for how to include pictures, equations, code blocks,
-columns, hints, etc. can be found at the [Geekdocs Demo Site](https://geekdocs.de/usage/getting-started/)
+columns, hints, etc. can be found at the [Geekdocs Demo Site](https://geekdocs.de/usage/getting-started/).
 
 {{< img name="edits" lazy=false >}}
 
