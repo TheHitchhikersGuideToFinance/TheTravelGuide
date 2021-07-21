@@ -23,7 +23,7 @@ main:
               - name: Cash-Secured Puts
                 ref:  "/market_education/options/level_1/cash_secured_puts"
           - name: Level 2
-            ref:  "/market_education/options/level_2"  
+            ref:  "/market_education/options/level_2"
             sub:
               - name: Long Call
                 ref:  "/market_education/options/level_2/long_call"
@@ -71,18 +71,18 @@ main:
   - name: Digging Resources
     ref: "/digging_resources"
     sub:
-      - name: Hardware
-        ref: "/digging_resources/hardware"
       - name: Search Engines
         ref: "/digging_resources/search_engines"
       - name: VPN
         ref: "/digging_resources/vpn"
-      - name: Free Open Source Software (FOSS)
-        ref: "/digging_resources/foss" 
-      - name: Market Data
-        ref: "digging_resources/market_data"
       - name: Reddit Subs
         ref: "reddit_subs"
+      - name: Recovering Removed or Deleted Information
+        ref: "digging_resources/recovering_removed_or_deleted_information"
+      - name: Market Data
+        ref: "digging_resources/market_data"
+      - name: Free Open Source Software (FOSS)
+        ref: "/digging_resources/foss"
       - name: Alternatives to Main Stream Media
         ref: "digging_resources/alternatives_to_main_stream_media"
       - name: Educational Videos
