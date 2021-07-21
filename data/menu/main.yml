@@ -8,17 +8,8 @@ main:
         sub:
           - name: Charts, Float, Market Cap
             ref: "/market_education/basics/charts_float_marketcap"
-          - name: Greeks
-            ref: "/market_education/basics/greeks"
           - name: Trading
             ref: "/market_education/basics/trading"
-            sub:
-              - name: Order Types
-                ref: "/market_education/basics/trading/order_types"
-              - name: Exchanges
-                ref: "/market_education/basics/trading/exchanges"
-          - name: Risk Management
-            ref: "/market_education/basics/risk_management"
           - name: Psychology
             ref:  "/market_education/basics/psychology"
       - name: Options
@@ -48,13 +39,15 @@ main:
             sub:
               - name: Uncovered
                 ref:  "/market_education/options/level_4/uncovered"
+          - name: Greeks
+            ref: "/market_education/options/greeks"
       - name: Technical Analysis
         ref: "/market_education/technical_analysis"
         sub:
-          - name: Simple Moving Average
-            ref: "/market_education/technical_analysis/simple_moving_average"
-          - name: Exponential Moving Average
-            ref: "/market_education/technical_analysis/exponential_moving_average"
+          - name: Moving Averages
+            ref: "/market_education/technical_analysis/moving_averages"
+          - name: Momentum Indicators
+            ref: "/market_education/technical_analysis/momentum_indicators"
       - name: Crypto
         ref: "/market_education/crypto"
         sub:
@@ -64,13 +57,8 @@ main:
             ref: "/market_education/crypto/how_to_buy_and_sell"
           - name: Automated Trading
             ref: "/market_education/crypto/automated_trading"
-      - name: External Resources
-        ref: "/market_education/external_resources"
-        sub:
-          - name: Alternatives to Main Stream Media
-            ref: "/market_education/external_resources/alternatives_to_main_stream_media"
-          - name: Educational Videos
-            ref: "/market_education/external_resources/educational_videos"
+      - name: Further Education
+        ref: "/market_education/further_education"
   - name: Due Diligence
     ref: "/due_diligence"
     sub:
@@ -95,6 +83,10 @@ main:
         ref: "digging_resources/market_data"
       - name: Reddit Subs
         ref: "reddit_subs"
+      - name: Alternatives to Main Stream Media
+        ref: "digging_resources/alternatives_to_main_stream_media"
+      - name: Educational Videos
+        ref: "digging_resources/educational_videos"
   - name: Help Build the Community
     ref: "/help_build_the_community"
     sub:
