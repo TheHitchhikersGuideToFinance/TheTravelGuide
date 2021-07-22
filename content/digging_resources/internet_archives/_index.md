@@ -1,5 +1,5 @@
 ---
-title: Recovering Removed or Deleted information
+title: Information Archives
 resources:
   - name: archive_today
     src: "archive_today.png"
