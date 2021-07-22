@@ -94,8 +94,8 @@ main:
         ref: "reddit_subs"
       - name: Alternatives to Main Stream Media
         ref: "digging_resources/alternatives_to_main_stream_media"
-      - name: Educational Videos
-        ref: "digging_resources/educational_videos"
+      - name: Educational Movies
+        ref: "digging_resources/educational_movies"
 
   - name: Help Build the Community
     ref: "/help_build_the_community"
