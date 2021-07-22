@@ -7,6 +7,7 @@
 
 [DealBreakers](https://dealbreaker.com/)
 
+[ZeroHedge](https://www.zerohedge.com/)
 
 **Videos**\
 [Charlies Vids](https://www.youtube.com/channel/UCIDaSv47u-Y8uXfbkmEGaxw)
