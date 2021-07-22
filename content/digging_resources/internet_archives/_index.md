@@ -13,15 +13,8 @@ resources:
 ---
 
 There are many ways to access information on the internet when the original is
-removed.
-
-
-**archive.today**\
-One way to do this is by using [archive.today](https://archive.ph/).
-They also provide an extension that works with Brave browser and it allows you
-to easily archive pages with the click of a button.
-
-{{< img name="archive_today" lazy=false size=tiny >}}
+removed. These resources can also be used to archive content that you create
+or find interesting.
 
 {{< hint info >}}
 **URL Tracking When Archiving**\
@@ -32,10 +25,20 @@ Tracking information starts with a ? and contains everything that follows
  More information on URL tracking can be found [here](https://www.leadsquared.com/what-is-a-tracking-url/).
 {{< /hint >}}
 
-**Wayback Machine**\
+{{< toc >}}
+
+## archive.today
+One way to do this is by using [archive.today](https://archive.ph/).
+They also provide an extension that works with Brave browser and it allows you
+to easily archive pages with the click of a button.
+
+{{< img name="archive_today" lazy=false size=medium >}}
+
+
+## Wayback Machine
 Another source for archived websites is [Wayback Machine](https://web.archive.org/).
 
-{{< img name="wayback_machine" lazy=true size=tiny >}}
+{{< img name="wayback_machine" lazy=true size=medium >}}
 
 {{< hint danger >}}
 **Wayback Machine Content Removal**\
@@ -43,9 +46,9 @@ It is possible for website owners to request content to be removed from Wayback
 Machine.
 {{< /hint >}}
 
-**Reddit Information**\
+## Removeddit
 To recover information that has been removed from Reddit, replace "reddit" in the
 URL with "removeddit". [Removeddit](https://removeddit.com/) actively monitors
 reddit and archives posts and comments that are removed.
 
-{{< img name="removeddit" lazy=false size=tiny >}}
+{{< img name="removeddit" lazy=false size=medium >}}

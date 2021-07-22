@@ -71,22 +71,23 @@ main:
   - name: Digging Resources
     ref: "/digging_resources"
     sub:
-      - name: Search Engines
-        ref: "/digging_resources/search_engines"
+      - name: Browsers and Search Engines
+        ref: "/digging_resources/browsers_and_search_engines"
       - name: VPN
         ref: "/digging_resources/vpn"
-      - name: Reddit Subs
-        ref: "reddit_subs"
-      - name: Recovering Removed or Deleted Information
-        ref: "digging_resources/recovering_removed_or_deleted_information"
+      - name: Internet Archives
+        ref: "digging_resources/internet_archives"
       - name: Market Data
         ref: "digging_resources/market_data"
+      - name: Reddit Subs
+        ref: "reddit_subs"
       - name: Free Open Source Software (FOSS)
         ref: "/digging_resources/foss"
       - name: Alternatives to Main Stream Media
         ref: "digging_resources/alternatives_to_main_stream_media"
       - name: Educational Videos
         ref: "digging_resources/educational_videos"
+
   - name: Help Build the Community
     ref: "/help_build_the_community"
     sub:
