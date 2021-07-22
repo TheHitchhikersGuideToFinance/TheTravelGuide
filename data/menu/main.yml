@@ -59,6 +59,7 @@ main:
             ref: "/market_education/crypto/automated_trading"
       - name: Further Education
         ref: "/market_education/further_education"
+
   - name: Due Diligence
     ref: "/due_diligence"
     sub:
@@ -68,21 +69,29 @@ main:
         ref: "/due_diligence/AMC"
       - name: BB
         ref: "/due_diligence/BB"
+
   - name: Digging Resources
     ref: "/digging_resources"
     sub:
-      - name: Browsers and Search Engines
-        ref: "/digging_resources/browsers_and_search_engines"
-      - name: VPN
-        ref: "/digging_resources/vpn"
+      - name: Privacy
+        ref: "/digging_resources/privacy"
+        sub:
+          - name: Browsers and Search Engines
+            ref: "/digging_resources/privacy/browsers_and_search_engines"
+          - name: VPN
+            ref: "/digging_resources/privacy/vpn"
+          - name: Free Open Source Software (FOSS)
+            ref: "/digging_resources/privacy/foss"
+          - name: Encrypted Email
+            ref: "/digging_resources/privacy/encrypted_email"
+          - name: Encrypted Cloud Data Storage
+            ref: "/digging_resources/privacy/encrypted_cloud_data_storage"
       - name: Internet Archives
         ref: "digging_resources/internet_archives"
       - name: Market Data
         ref: "digging_resources/market_data"
       - name: Reddit Subs
         ref: "reddit_subs"
-      - name: Free Open Source Software (FOSS)
-        ref: "/digging_resources/foss"
       - name: Alternatives to Main Stream Media
         ref: "digging_resources/alternatives_to_main_stream_media"
       - name: Educational Videos
