@@ -1,3 +1,10 @@
-end-to-end encryption
 
-proton mail 
+Most companies, such as Gmail, only encrypt communications when they are
+en-route to their companies servers. Once the information arrives at their servers,
+the information is decrypted and the service provider can see the contents.
+End-to-end encryption keeps your communication encrypted until is arrives at
+the recipient and is then decrypted. This means that governments, service providers,
+and hackers are unable to view the contents of your emails.
+
+[ProtonMail](https://protonmail.com/) is a free email service that provides
+end-to-end encryption.
