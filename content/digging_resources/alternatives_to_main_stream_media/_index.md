@@ -9,6 +9,8 @@
 
 [ZeroHedge](https://www.zerohedge.com/)
 
+[The Financial Revolutionist](https://thefr.com/)
+
 **YouTube Videos**\
 [Charlies Vids](https://www.youtube.com/channel/UCIDaSv47u-Y8uXfbkmEGaxw)
 
