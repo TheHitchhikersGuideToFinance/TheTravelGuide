@@ -1,6 +1,6 @@
-list of helpful websites for market data
+list of helpful websites for market data - eventually, it would be nice to organize
+this with categories in a table of contents
 
-ftd data
 
 [GameStop Daily Volume By Exchange](https://chartexchange.com/symbol/nyse-gme/stats/?uy=3287)
 
