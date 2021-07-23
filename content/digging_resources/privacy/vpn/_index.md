@@ -14,7 +14,6 @@ and your VPN provider is encrypted, your internet service provider will no
 longer be able to view your activity.
 
 {{< hint danger >}}
-**Trusting a VPN Provider**\
 If you use a VPN, your privacy is only as good as your VPN provider. The provider
 may log your activity and then sell these to 3rd parties or hand them over to
 governments. Be very weary of free VPN providers, since they all have to pay bills

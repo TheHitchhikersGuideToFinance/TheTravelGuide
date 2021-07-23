@@ -17,8 +17,10 @@ The [Brave browser](https://brave.com/) is a fast, private, and secure web brows
 and mobile that provides an ad-free browsing experience that saves data and
 battery life by blocking tracking software.
 
-In addition to the build in protection from Brave, you can install
+{{< hint info >}}
+In addition to the built in protection from Brave, you can install
 [uBlock Origin](https://ublockorigin.com/) which is a wide-spectrum content blocker
+{{< /hint >}}
 
 ### Tor
 If privacy and anonymity are of upmost importance, consider using the
