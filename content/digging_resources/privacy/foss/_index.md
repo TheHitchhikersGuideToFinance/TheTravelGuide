@@ -24,6 +24,7 @@ available with the freedom to modify, there have been many branches that have
 developed over time. Here is a non-extensive map as an example:
 
 {{< img name="linux_timeline" lazy=false size=medium >}}
+<!-- https://i.redd.it/aygzaivcbmd51.png -->
 
 For most users, Ubuntu is recommended as the flavor to use. Ubuntu provides long
 term support with five years of security patches and updates. Installation is
