@@ -16,7 +16,6 @@ removed. These resources can also be used to archive content that you create
 or find interesting.
 
 {{< hint info >}}
-**URL Tracking When Archiving**\
 When archiving a website, watch out for tracking information in the URL.
 Tracking information starts with a ? and contains everything that follows
 (ex. www.reddit.com/mypost?utm_source=share). A link with tracking Information
@@ -40,7 +39,6 @@ Another source for archived websites is [Wayback Machine](https://web.archive.or
 {{< img name="wayback_machine" lazy=true size=medium >}}
 
 {{< hint danger >}}
-**Wayback Machine Content Removal**\
 It is possible for website owners to request content to be removed from Wayback
 Machine.
 {{< /hint >}}

@@ -1,3 +1,9 @@
+---
+resources:
+  - name: proton_mail
+    src: "proton_mail.png"
+    title: Proton Mail
+---
 
 Most companies, such as Gmail, only encrypt communications when they are
 en-route to their companies servers. Once the information arrives at their servers,
@@ -8,3 +14,5 @@ and hackers are unable to view the contents of your emails.
 
 [ProtonMail](https://protonmail.com/) is a free email service that provides
 end-to-end encryption.
+
+{{< img name="proton_mail" lazy=true size=medium >}}
