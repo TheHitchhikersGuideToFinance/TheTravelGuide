@@ -4,7 +4,9 @@ Main stream media has drawbacks, as illustrated in the video below.
 
 Here are some alternatives!
 
-**Journalism**\
+{{< toc >}}
+
+## Journalism
 [Wall Street On Parade](https://wallstreetonparade.com/)
 
 [OpenSecrets](https://www.opensecrets.org/)
@@ -15,7 +17,7 @@ Here are some alternatives!
 
 [The Financial Revolutionist](https://thefr.com/)
 
-**YouTube Videos**\
+## YouTube Videos
 [Charlies Vids](https://www.youtube.com/channel/UCIDaSv47u-Y8uXfbkmEGaxw)
 
 [Rocky Outcrop](https://www.youtube.com/rockyoutcrop)
