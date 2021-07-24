@@ -1,1 +1,3 @@
 recommend using Atom which is a foss from github
+
+more info to be added...

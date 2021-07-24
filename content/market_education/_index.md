@@ -1,6 +1,5 @@
 ---
-title: Education
 geekdocCollapseSection: true
 ---
 
-This secion is for education on market principles
+This is a general overview of the basics of finance.
