@@ -18,8 +18,8 @@ and mobile that provides an ad-free browsing experience that saves data and
 battery life by blocking tracking software.
 
 {{< hint info >}}
-In addition to the built in protection from Brave, you can install
-[uBlock Origin](https://ublockorigin.com/) which is a wide-spectrum content blocker
+In addition to the built in protection from Brave, it is recommended to install
+[uBlock Origin](https://ublockorigin.com/) which is a wide-spectrum content blocker.
 {{< /hint >}}
 
 ### Tor
