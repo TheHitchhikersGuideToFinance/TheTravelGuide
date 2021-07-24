@@ -29,7 +29,7 @@ developed over time. Here is a non-extensive map as an example:
 For most users, Ubuntu is recommended as the flavor to use. Ubuntu provides long
 term support with five years of security patches and updates. Installation is
 relevantly easy and a guide on how to install Ubuntu along side Windows can
- be found [here](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/)
+ be found [here](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/).
 
 ## LibreOffice
 LibreOffice is a FOSS office suite that includes a word processor, spreadsheet,
