@@ -17,6 +17,8 @@ Here are some alternatives!
 
 [The Financial Revolutionist](https://thefr.com/)
 
+[GMEdd.com](https://gmedd.com/)
+
 ## YouTube Videos
 [Charlies Vids](https://www.youtube.com/channel/UCIDaSv47u-Y8uXfbkmEGaxw)
 

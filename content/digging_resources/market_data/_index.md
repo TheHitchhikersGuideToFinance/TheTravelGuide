@@ -20,3 +20,19 @@ A FOSS alternative to Bloomberg Terminal.
 [Market Holidays](https://www.nyse.com/markets/hours-calendars)
 
 [Short Sale Circuit Breaker](https://www.nasdaqtrader.com/trader.aspx?id=ShortSaleCircuitBreaker)
+
+[ETF Holding Data](https://www.etf.com/stock/GME)
+
+[Funds Holdings](https://www.holdingschannel.com/bystock/?symbol=gme)
+
+[Institutional Ownership](https://fintel.io/so/us/gme?__cf_chl_jschl_tk__=pmd_a611be6379e6a29703cbd172f710a4225fadb244-1627167768-0-gqNtZGzNAg2jcnBszQ1i)
+
+[Finra Market Data](http://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=14%3A0P000002CH&sdkVersion=2.60.1)
+
+[Dark Pool Data](https://www.stockgrid.io/darkpools)
+
+[DTCC - SEC Rule Filings](https://www.dtcc.com/legal/sec-rule-filings)
+
+[US Senate Stock Watcher](https://senatestockwatcher.com/)
+
+[US House of Representatives Stock Watcher](https://housestockwatcher.com/)
