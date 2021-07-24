@@ -103,8 +103,6 @@ main:
   - name: Help Build the Community
     ref: "/help_build_the_community"
     sub:
-      - name: Overview
-        ref: "/help_build_the_community/overview"
       - name: Edit With Web Browser
         ref: "/help_build_the_community/edit_with_web_browser"
       - name: Edit With GitHub
