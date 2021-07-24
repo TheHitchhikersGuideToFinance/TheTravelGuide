@@ -1,4 +1,4 @@
-Main stream media has it drawbacks, as illustrated in the video below.
+Main stream media has drawbacks, as illustrated in the video below.
 
 {{< addmp4vid news_propaganda.mp4>}}
 
