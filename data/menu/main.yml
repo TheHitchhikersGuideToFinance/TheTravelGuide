@@ -68,10 +68,6 @@ main:
     sub:
       - name: GME
         ref: "/due_diligence/GME"
-      - name: AMC
-        ref: "/due_diligence/AMC"
-      - name: BB
-        ref: "/due_diligence/BB"
 
   - name: Digging Resources
     ref: "/digging_resources"
