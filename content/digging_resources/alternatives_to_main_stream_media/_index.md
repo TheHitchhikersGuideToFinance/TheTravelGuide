@@ -1,4 +1,8 @@
+Main stream media has it drawbacks, as illustrated in the video below.
 
+{{< addmp4vid news_propaganda.mp4>}}
+
+Here are some alternatives!
 
 **Journalism**\
 [Wall Street On Parade](https://wallstreetonparade.com/)
