@@ -68,7 +68,9 @@ main:
     sub:
       - name: GME
         ref: "/due_diligence/GME"
-
+        sub:
+          - name: Reddit Subs
+            ref: "/due_diligence/GME/reddit_subs"
   - name: Digging Resources
     ref: "/digging_resources"
     sub:
@@ -89,8 +91,6 @@ main:
         ref: "digging_resources/internet_archives"
       - name: Market Data
         ref: "digging_resources/market_data"
-      - name: Reddit Subs
-        ref: "reddit_subs"
       - name: Alternatives to Main Stream Media
         ref: "digging_resources/alternatives_to_main_stream_media"
       - name: Educational Movies
