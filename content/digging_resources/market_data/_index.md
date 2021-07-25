@@ -40,3 +40,7 @@ Here's some market data sources!
 [Short Sale Circuit Breaker](https://www.nasdaqtrader.com/trader.aspx?id=ShortSaleCircuitBreaker)
 
 [DTCC - SEC Rule Filings](https://www.dtcc.com/legal/sec-rule-filings)
+
+## Social Data
+
+[Reddit Search](https://camas.github.io/reddit-search/)
