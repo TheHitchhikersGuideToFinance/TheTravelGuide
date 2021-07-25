@@ -9,4 +9,5 @@ as a complication of knowledge, educational sources, and resources for those
 who wish to learn more about finance. The pages are intended to provide detailed
 information that is easily digestible. Reading it with [this voice](https://www.youtube.com/watch?v=J_7pEVPvuug) helps immensely.
 
-If you can [contribute](/help_build_the_community/edit_with_web_browser/), please do!
+This guide was inspired from the GameStop 2021 situation, but is not
+ restricted to it! If you can [contribute](/help_build_the_community/edit_with_web_browser/), please do!
