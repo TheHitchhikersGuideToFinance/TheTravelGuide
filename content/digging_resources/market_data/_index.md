@@ -16,6 +16,8 @@ Here's some market data sources!
 
 [Dark Pool Data](https://www.stockgrid.io/darkpools)
 
+[Quiver Quantitative](https://www.quiverquant.com/dashboard/GME/)
+
 ## Ownership Data
 [ETF Holding Data](https://www.etf.com/stock/GME)
 
