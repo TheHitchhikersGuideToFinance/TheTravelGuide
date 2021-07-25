@@ -55,6 +55,14 @@ file must be created. A list of features that are provided in this submodule and
 can be used in building this website, such as code blocks, buttons, columns, hints,
 equations, etc., can be found [here](https://geekdocs.de/features/code-blocks/).
 
+## Commit and Push
+
+Once your edits are made, and you have previewed them to ensure the site functions
+correctly, it is time to integrate them to the live website. This can be done by
+navigating to the Git tab in the bottom right of Atom. Once there, click
+Stage All, write a short message, and click Commit to main. Then click the
+Push button that appears in the bottom right. That's it!
+
 ## Adding html
 
 Adding html that is outside the scope of hugo and this submodule is not recommended
@@ -66,11 +74,3 @@ any page by using `{{</* mycode */>}}`.
 To insert a .mp4 video, for example, you can use the html shortcode that has
 already been created. Store the video in the *static -> videos* folder, and
 insert the video in any page using `{{</* addmp4vid myvideofile */>}}`.
-
-
-
-
-
-
-
-.
