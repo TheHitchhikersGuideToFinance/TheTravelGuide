@@ -101,7 +101,7 @@ main:
     sub:
       - name: Edit With Web Browser
         ref: "/help_build_the_community/edit_with_web_browser"
-      - name: Edit With GitHub
-        ref: "/help_build_the_community/edit_with_github"
+      - name: Edit Locally
+        ref: "/help_build_the_community/edit_locally"
       - name: Maintainers
         ref: "/help_build_the_community/maintainers"
