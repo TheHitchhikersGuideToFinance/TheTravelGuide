@@ -19,6 +19,8 @@ Here are some alternatives!
 
 [GMEdd.com](https://gmedd.com/)
 
+[The Herland Report](https://hannenabintuherland.com/)
+
 ## YouTube Videos
 [Charlies Vids](https://www.youtube.com/channel/UCIDaSv47u-Y8uXfbkmEGaxw)
 
