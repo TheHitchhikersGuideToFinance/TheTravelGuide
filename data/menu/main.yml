@@ -60,42 +60,37 @@ main:
             ref: "/market_education/cryptocurrency/automated_trading"
           - name: Decentralized Finance
             ref: "/market_education/cryptocurrency/decentralized_finance"
+      - name: Alternatives to Main Stream Media
+        ref: "market_education/alternatives_to_main_stream_media"
+      - name: Macrofinance Movie List
+        ref: "market_education/macrofinance_movie_list"
       - name: Further Education
         ref: "/market_education/further_education"
 
   - name: Due Diligence
     ref: "/due_diligence"
     sub:
+      - name: Market Data
+        ref: "due_diligence/market_data"
+      - name: Internet Archives
+        ref: "due_diligence/internet_archives"
+      - name: Reddit Subs
+        ref: "/due_diligence/reddit_subs"
       - name: GME
         ref: "/due_diligence/GME"
-        sub:
-          - name: Reddit Subs
-            ref: "/due_diligence/GME/reddit_subs"
-  - name: Digging Resources
-    ref: "/digging_resources"
+  - name: Online Privacy
+    ref: "online_privacy"
     sub:
-      - name: Privacy
-        ref: "/digging_resources/privacy"
-        sub:
-          - name: Browsers and Search Engines
-            ref: "/digging_resources/privacy/browsers_and_search_engines"
-          - name: VPN
-            ref: "/digging_resources/privacy/vpn"
-          - name: Free Open Source Software (FOSS)
-            ref: "/digging_resources/privacy/foss"
-          - name: Encrypted Email
-            ref: "/digging_resources/privacy/encrypted_email"
-          - name: Encrypted Cloud Data Storage
-            ref: "/digging_resources/privacy/encrypted_cloud_data_storage"
-      - name: Internet Archives
-        ref: "digging_resources/internet_archives"
-      - name: Market Data
-        ref: "digging_resources/market_data"
-      - name: Alternatives to Main Stream Media
-        ref: "digging_resources/alternatives_to_main_stream_media"
-      - name: Educational Movies
-        ref: "digging_resources/educational_movies"
-
+      - name: Browsers and Search Engines
+        ref: "online_privacy/browsers_and_search_engines"
+      - name: VPN
+        ref: "online_privacy/vpn"
+      - name: Free Open Source Software (FOSS)
+        ref: "online_privacy/foss"
+      - name: Encrypted Email
+        ref: "online_privacy/encrypted_email"
+      - name: Encrypted Cloud Data Storage
+        ref: "online_privacy/encrypted_cloud_data_storage"
   - name: Help Build the Community
     ref: "/help_build_the_community"
     sub:
