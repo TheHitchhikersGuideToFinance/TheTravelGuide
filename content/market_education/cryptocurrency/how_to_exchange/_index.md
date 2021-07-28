@@ -18,7 +18,7 @@ technically own them - the exchange does. Because of this, it is very important 
 trust the exchange that you use.
 {{< /hint >}}
 
-Some popular decentralized exchanges are:
+Some popular centralized exchanges are:
 
 1. [Binance](https://www.binance.com/en)
 2. [Coinbase](https://www.coinbase.com/)
@@ -35,7 +35,7 @@ to match orders. Since there is no central entity, the government cannot track
 transactions or forcefully impose taxes and regulations. With decentralized exchanges,
 you hold your private keys, and thus, the ability to spend your cryptocurrency.
 
-Some popular centralized exchanges are:
+Some popular decentralized exchanges are:
 
 1. [Uniswap](https://app.uniswap.org/#/swap)
 2. [PancakeSwap](https://pancakeswap.finance/)
