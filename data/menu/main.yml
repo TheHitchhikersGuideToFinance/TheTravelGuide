@@ -12,43 +12,36 @@ main:
             ref: "/market_education/basics/trading"
           - name: Psychology
             ref:  "/market_education/basics/psychology"
+          - name: Account Types
+            ref:  "/market_education/basics/account_types"
+            sub:
+              - name: Cash vs. Margin
+                ref: "/market_education/basics/account_types/cash_vs_margin"
+              - name: Tax Advantaged Accounts
+                ref: "/market_education/basics/account_types/tax_advantaged_accounts"
       - name: Technical Analysis
         ref: "/market_education/technical_analysis"
         sub:
+          - name: Chart Patterns
+            ref: "/market_education/technical_analysis/chart_patterns"
           - name: Moving Averages
             ref: "/market_education/technical_analysis/moving_averages"
-          - name: Momentum Indicators
-            ref: "/market_education/technical_analysis/momentum_indicators"
+          - name: Indicators and Oscillators
+            ref: "/market_education/technical_analysis/indicators_and_oscillators"
+          - name: Support and Resistance
+            ref: "/market_education/technical_analysis/support_and_resistance"
+          - name: Advanced Techniques
+            ref: "/market_education/technical_analysis/advanced_techniques"
 
       - name: Options
         ref: "/market_education/options"
         sub:
           - name: What Are Options
             ref:  "/market_education/options/what_are_options"
-          - name: Level 1
-            ref:  "/market_education/options/level_1"
-            sub:
-              - name: Covered Calls
-                ref:  "/market_education/options/level_1/covered_calls"
-              - name: Cash-Secured Puts
-                ref:  "/market_education/options/level_1/cash_secured_puts"
-          - name: Level 2
-            ref:  "/market_education/options/level_2"
-            sub:
-              - name: Long Call
-                ref:  "/market_education/options/level_2/long_call"
-              - name: Long Put
-                ref:  "/market_education/options/level_2/long_put"
-          - name: Level 3
-            ref:  "/market_education/options/level_3"
-            sub:
-              - name: Spreads
-                ref:  "/market_education/options/level_3/spreads"
-          - name: Level 4
-            ref:  "/market_education/options/level_4"
-            sub:
-              - name: Uncovered
-                ref:  "/market_education/options/level_4/uncovered"
+          - name: Basic Strategies
+            ref:  "/market_education/options/basic_strategies"
+          - name: Advanced Strategies
+            ref:  "/market_education/options/advanced_strategies"
           - name: Greeks
             ref: "/market_education/options/greeks"
       - name: Cryptocurrency
