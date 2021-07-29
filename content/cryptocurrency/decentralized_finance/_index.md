@@ -1,6 +1,12 @@
-Here's a good info graphic:
+Decentralized finance (DeFi) is a group of financial applications that are hosted
+on public blockchains that offer peer to peer services which traditionally have
+only been available through banks. This includes borrowing, lending, and trading
+directly with a peer without a central entity. This is made possible through the
+use of [Smart Contracts](https://www.inve.stopedia.com/terms/s/smart-contracts.asp).
 
-<p><a href='https://blockgeeks.com/graphics/'><img src='https://blockgeeks.com/wp-content/uploads/2019/05/web3.0blockchainbusiness.jpg' alt='Web 3 and Blockchain Businesses' 540px border='0' /></a>
+Some examples of DeFi include:
 
-
-www.blockgeeks.com
+1. [MakerDAO](https://makerdao.com/en/)
+2. [AAVE](https://aave.com/)
+3. [Compound](https://compound.finance/)
+4. [Synthetix](https://synthetix.io/)

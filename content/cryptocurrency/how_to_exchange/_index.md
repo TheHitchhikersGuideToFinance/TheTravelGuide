@@ -33,7 +33,8 @@ Some popular centralized exchanges are:
 Decentralized exchanges utilize a peer to peer system and smart contracts in order
 to match orders. Since there is no central entity, the government cannot track
 transactions or forcefully impose taxes and regulations. With decentralized exchanges,
-you hold your private keys, and thus, the ability to spend your cryptocurrency.
+you hold your private keys, and thus, the ability to spend your cryptocurrency 
+without relying on a central entity.
 
 Some popular decentralized exchanges are:
 
