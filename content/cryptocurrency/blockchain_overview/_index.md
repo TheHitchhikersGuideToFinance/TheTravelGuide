@@ -1,10 +1,10 @@
-what is blockchain, what are private keys, how to own currency (vs a custodian like an exchange), token vs crypto
+---
+resources:
+  - name: blockchain_infographic
+    src: "Cryptography-and-Blockchain-Infographic.png"
+    title: Cryptography & Blockchain
+    params:
+      credits: "[Blockchainhub](https://blockchainhub.net/blog/infographics/cryptography-blockchain-infographic/)"
+---
 
-https://bloxy.info/
-
-
-<p><a href='https://blockgeeks.com/graphics/'><img src='https://blockgeeks.com/wp-content/uploads/2019/05/transactioncycle.jpg' alt='Transaction Cycle' 540px border='0' /></a>
-www.blockgeeks.com
-
-
-https://coinmarketcap.com/
+{{< img name="blockchain_infographic" lazy=false >}}
