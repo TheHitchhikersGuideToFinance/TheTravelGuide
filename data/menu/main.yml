@@ -1,67 +1,58 @@
 ---
 main:
-  - name: Market Education
-    ref: "/market_education"
+  - name: Market Basics
+    ref: "/market_basics"
     sub:
-      - name: Basics
-        ref: "/market_education/basics"
+      - name: Charts, Float, Market Cap
+        ref: "/market_basics/charts_float_marketcap"
+      - name: Trading
+        ref: "/market_basics/trading"
+      - name: Psychology
+        ref:  "/market_basics/psychology"
+      - name: Account Types
+        ref:  "/market_basics/account_types"
         sub:
-          - name: Charts, Float, Market Cap
-            ref: "/market_education/basics/charts_float_marketcap"
-          - name: Trading
-            ref: "/market_education/basics/trading"
-          - name: Psychology
-            ref:  "/market_education/basics/psychology"
-          - name: Account Types
-            ref:  "/market_education/basics/account_types"
-            sub:
-              - name: Cash vs. Margin
-                ref: "/market_education/basics/account_types/cash_vs_margin"
-              - name: Tax Advantaged Accounts
-                ref: "/market_education/basics/account_types/tax_advantaged_accounts"
-      - name: Technical Analysis
-        ref: "/market_education/technical_analysis"
-        sub:
-          - name: Chart Patterns
-            ref: "/market_education/technical_analysis/chart_patterns"
-          - name: Moving Averages
-            ref: "/market_education/technical_analysis/moving_averages"
-          - name: Indicators and Oscillators
-            ref: "/market_education/technical_analysis/indicators_and_oscillators"
-          - name: Support and Resistance
-            ref: "/market_education/technical_analysis/support_and_resistance"
-          - name: Advanced Techniques
-            ref: "/market_education/technical_analysis/advanced_techniques"
-
-      - name: Options
-        ref: "/market_education/options"
-        sub:
-          - name: What Are Options
-            ref:  "/market_education/options/what_are_options"
-          - name: Basic Strategies
-            ref:  "/market_education/options/basic_strategies"
-          - name: Advanced Strategies
-            ref:  "/market_education/options/advanced_strategies"
-          - name: Greeks
-            ref: "/market_education/options/greeks"
-      - name: Cryptocurrency
-        ref: "/market_education/cryptocurrency"
-        sub:
-          - name: Blockchain Overview
-            ref: "/market_education/cryptocurrency/blockchain_overview"
-          - name: How to Exchange
-            ref: "/market_education/cryptocurrency/how_to_exchange"
-          - name: Automated Trading
-            ref: "/market_education/cryptocurrency/automated_trading"
-          - name: Decentralized Finance
-            ref: "/market_education/cryptocurrency/decentralized_finance"
-      - name: Alternatives to Main Stream Media
-        ref: "market_education/alternatives_to_main_stream_media"
-      - name: Macrofinance Movie List
-        ref: "market_education/macrofinance_movie_list"
+          - name: Cash vs. Margin
+            ref: "/market_basics/account_types/cash_vs_margin"
+          - name: Tax Advantaged Accounts
+            ref: "/market_basics/account_types/tax_advantaged_accounts"
       - name: Further Education
-        ref: "/market_education/further_education"
-
+        ref: "/market_basics/further_education"
+  - name: Technical Analysis
+    ref: "/technical_analysis"
+    sub:
+      - name: Chart Patterns
+        ref: "/technical_analysis/chart_patterns"
+      - name: Moving Averages
+        ref: "/technical_analysis/moving_averages"
+      - name: Indicators and Oscillators
+        ref: "/technical_analysis/indicators_and_oscillators"
+      - name: Support and Resistance
+        ref: "/technical_analysis/support_and_resistance"
+      - name: Advanced Techniques
+        ref: "/technical_analysis/advanced_techniques"
+  - name: Options
+    ref: "/options"
+    sub:
+      - name: What Are Options
+        ref:  "/options/what_are_options"
+      - name: Basic Strategies
+        ref:  "/options/basic_strategies"
+      - name: Advanced Strategies
+        ref:  "/options/advanced_strategies"
+      - name: Greeks
+        ref: "/options/greeks"
+  - name: Cryptocurrency
+    ref: "/cryptocurrency"
+    sub:
+      - name: Blockchain Overview
+        ref: "/cryptocurrency/blockchain_overview"
+      - name: How to Exchange
+        ref: "/cryptocurrency/how_to_exchange"
+      - name: Automated Trading
+        ref: "/cryptocurrency/automated_trading"
+      - name: Decentralized Finance
+        ref: "/cryptocurrency/decentralized_finance"
   - name: Due Diligence
     ref: "/due_diligence"
     sub:
@@ -69,10 +60,15 @@ main:
         ref: "due_diligence/market_data"
       - name: Internet Archives
         ref: "due_diligence/internet_archives"
-      - name: Reddit Subs
-        ref: "/due_diligence/reddit_subs"
+      - name: Alternatives to Main Stream Media
+        ref: "due_diligence/alternatives_to_main_stream_media"
+      - name: Macrofinance Movie List
+        ref: "due_diligence/macrofinance_movie_list"
       - name: GME
         ref: "/due_diligence/GME"
+        sub:
+          - name: Reddit Subs
+            ref: "/due_diligence/GME/reddit_subs"
   - name: Online Privacy
     ref: "online_privacy"
     sub:
