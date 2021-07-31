@@ -33,7 +33,7 @@ Some popular centralized exchanges are:
 Decentralized exchanges utilize a peer to peer system and smart contracts in order
 to match orders. Since there is no central entity, the government cannot track
 transactions or forcefully impose taxes and regulations. With decentralized exchanges,
-you hold your private keys, and thus, the ability to spend your cryptocurrency 
+you hold your private keys, and thus, the ability to spend your cryptocurrency
 without relying on a central entity.
 
 Some popular decentralized exchanges are:
@@ -42,3 +42,10 @@ Some popular decentralized exchanges are:
 2. [PancakeSwap](https://pancakeswap.finance/)
 3. [MDEX](https://mdex.co/#/)
 4. [1Inch](https://app.1inch.io/#/1/swap)
+
+## Wallets
+
+1. Coin Specific Wallets
+2. Ether Wallets
+    1. MetaMask
+    2. My Ether Wallet
