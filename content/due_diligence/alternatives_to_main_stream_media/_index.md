@@ -6,7 +6,7 @@ Here are some alternatives!
 
 {{< toc >}}
 
-## Journalism
+## Journalism/News
 [Wall Street On Parade](https://wallstreetonparade.com/)
 
 [OpenSecrets](https://www.opensecrets.org/)
@@ -20,6 +20,10 @@ Here are some alternatives!
 [GMEdd.com](https://gmedd.com/)
 
 [The Herland Report](https://hannenabintuherland.com/)
+
+[Bitcoin.com](https://news.bitcoin.com/)
+
+[Unlimited Hangout](https://unlimitedhangout.com/)
 
 ## YouTube Videos
 [Charlies Vids](https://www.youtube.com/channel/UCIDaSv47u-Y8uXfbkmEGaxw)
